@@ -459,11 +459,12 @@ body {
 /* 4. HOME PAGE */
 /*------------------------------------------------------------------------------------------*/
 #home-page { 
-  background-image: url('../img/pexels.jpeg');	
+  background-video: url('video.mp4');	
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-	overflow: hidden;
+  margin: 0;
+  overflow: hidden;
 }
 #particles-js{
   width: 100%;
